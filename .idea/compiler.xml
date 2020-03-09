@@ -7,18 +7,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="my-shop-eureka-server" />
         <module name="my-shop-basic" />
-        <module name="my-shop-service" />
-        <module name="my-shop-web" />
+        <module name="my-shop-register-service" />
+        <module name="my-shop-register-web" />
+        <module name="my-shop-common" />
         <module name="my-shop-regist-api" />
+        <module name="my-shop-dependencies" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="my-shop-api" target="1.5" />
       <module name="my-shop-basic" target="1.5" />
+      <module name="my-shop-common" target="1.5" />
+      <module name="my-shop-dependencies" target="1.5" />
+      <module name="my-shop-eureka-server" target="1.5" />
       <module name="my-shop-regist-api" target="1.5" />
-      <module name="my-shop-service" target="1.5" />
-      <module name="my-shop-web" target="1.5" />
+      <module name="my-shop-register-service" target="1.5" />
+      <module name="my-shop-register-web" target="1.5" />
+      <module name="myshopeurekaserver" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

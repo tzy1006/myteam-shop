@@ -11,6 +11,9 @@
         <option value="$PROJECT_DIR$/my-shop-api/pom.xml" />
         <option value="$PROJECT_DIR$/my-shop-service/pom.xml" />
         <option value="$PROJECT_DIR$/my-shop-web/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-common/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-eureka-server/pom.xml" />
       </list>
     </option>
   </component>
