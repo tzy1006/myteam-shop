@@ -10,6 +10,12 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>my-shop-regist-api</module>
+        <module>my-shop-product-api</module>
+        <module>my-shop-product-type-api</module>
+        <module>my-shop-resources-api</module>
+        <module>my-shop-search-api</module>
+        <module>my-shop-resources-api</module>
+        <module>my-shop-user-api</module>
     </modules>
 
 

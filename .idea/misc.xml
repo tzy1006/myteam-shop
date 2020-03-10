@@ -9,12 +9,21 @@
         <option value="$PROJECT_DIR$/myshopapi/pom.xml" />
         <option value="$PROJECT_DIR$/my-shop-basic/pom.xml" />
         <option value="$PROJECT_DIR$/my-shop-api/pom.xml" />
-        <option value="$PROJECT_DIR$/my-shop-service/pom.xml" />
         <option value="$PROJECT_DIR$/my-shop-web/pom.xml" />
         <option value="$PROJECT_DIR$/my-shop-common/pom.xml" />
-        <option value="$PROJECT_DIR$/my-shop-dependencies/pom.xml" />
-        <option value="$PROJECT_DIR$/my-shop-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/test/test1/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/my-shop-api/my-shop-resources-api/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/my-shop-cart-servive/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/my-shop-search-servive/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/my-shop-sms-servive/pom.xml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">

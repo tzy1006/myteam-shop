@@ -7,25 +7,57 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="my-shop-eureka-server" />
-        <module name="my-shop-basic" />
-        <module name="my-shop-register-service" />
-        <module name="my-shop-register-web" />
+        <module name="my-shop-mapper" />
+        <module name="my-shop-user-api" />
+        <module name="my-shop-sms-servive" />
         <module name="my-shop-common" />
+        <module name="my-shop-cart-service" />
+        <module name="my-shop-search-api" />
         <module name="my-shop-regist-api" />
-        <module name="my-shop-dependencies" />
+        <module name="my-shop-search-servive" />
+        <module name="my-shop-index-servive" />
+        <module name="my-shop-email-servive" />
+        <module name="my-shop-resources-api" />
+        <module name="my-shop-web" />
+        <module name="my-shop-product-type-api" />
+        <module name="my-shop-entity" />
+        <module name="my-shop-product-servive" />
+        <module name="my-shop-product-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
       <module name="my-shop-api" target="1.5" />
       <module name="my-shop-basic" target="1.5" />
+      <module name="my-shop-cart-service" target="1.5" />
       <module name="my-shop-common" target="1.5" />
       <module name="my-shop-dependencies" target="1.5" />
+      <module name="my-shop-email-servive" target="1.5" />
+      <module name="my-shop-entity" target="1.5" />
       <module name="my-shop-eureka-server" target="1.5" />
+      <module name="my-shop-index-servive" target="1.5" />
+      <module name="my-shop-mapper" target="1.5" />
+      <module name="my-shop-product-api" target="1.5" />
+      <module name="my-shop-product-servive" target="1.5" />
+      <module name="my-shop-product-type-api" target="1.5" />
       <module name="my-shop-regist-api" target="1.5" />
       <module name="my-shop-register-service" target="1.5" />
       <module name="my-shop-register-web" target="1.5" />
+      <module name="my-shop-resources-api" target="1.5" />
+      <module name="my-shop-search-api" target="1.5" />
+      <module name="my-shop-search-servive" target="1.5" />
+      <module name="my-shop-service" target="1.5" />
+      <module name="my-shop-sms-servive" target="1.5" />
+      <module name="my-shop-user-api" target="1.5" />
+      <module name="my-shop-web" target="1.5" />
       <module name="myshopeurekaserver" target="1.5" />
+      <module name="test" target="1.5" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="my-shop-cart-service" options="" />
+    </option>
   </component>
 </project>

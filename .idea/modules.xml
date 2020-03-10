@@ -4,14 +4,32 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-shop-basic/my-shop-basic.iml" filepath="$PROJECT_DIR$/my-shop-basic/my-shop-basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/my-shop-common/my-shop-common.iml" filepath="$PROJECT_DIR$/my-shop-common/my-shop-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/my-shop-dependencies/my-shop-dependencies.iml" filepath="$PROJECT_DIR$/my-shop-dependencies/my-shop-dependencies.iml" />
-      <module fileurl="file://$PROJECT_DIR$/my-shop-eureka-server/my-shop-eureka-server.iml" filepath="$PROJECT_DIR$/my-shop-eureka-server/my-shop-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/my-shop-cart/my-shop-cart.iml" filepath="$PROJECT_DIR$/my-shop-web/my-shop-cart/my-shop-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/my-shop-cart-service/my-shop-cart-service.iml" filepath="$PROJECT_DIR$/my-shop-service/my-shop-cart-service/my-shop-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-basic/my-shop-common/my-shop-common.iml" filepath="$PROJECT_DIR$/my-shop-basic/my-shop-common/my-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/my-shop-email-servive/my-shop-email-servive.iml" filepath="$PROJECT_DIR$/my-shop-service/my-shop-email-servive/my-shop-email-servive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-basic/my-shop-entity/my-shop-entity.iml" filepath="$PROJECT_DIR$/my-shop-basic/my-shop-entity/my-shop-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/my-shop-index/my-shop-index.iml" filepath="$PROJECT_DIR$/my-shop-web/my-shop-index/my-shop-index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/my-shop-index-servive/my-shop-index-servive.iml" filepath="$PROJECT_DIR$/my-shop-service/my-shop-index-servive/my-shop-index-servive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-basic/my-shop-mapper/my-shop-mapper.iml" filepath="$PROJECT_DIR$/my-shop-basic/my-shop-mapper/my-shop-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/my-shop-product/my-shop-product.iml" filepath="$PROJECT_DIR$/my-shop-web/my-shop-product/my-shop-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-product-api/my-shop-product-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-product-api/my-shop-product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/my-shop-product-servive/my-shop-product-servive.iml" filepath="$PROJECT_DIR$/my-shop-service/my-shop-product-servive/my-shop-product-servive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-product-type-api/my-shop-product-type-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-product-type-api/my-shop-product-type-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-regist-api/my-shop-regist-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-regist-api/my-shop-regist-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-register-api/my-shop-register-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-register-api/my-shop-register-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/my-shop-register-service/my-shop-register-service.iml" filepath="$PROJECT_DIR$/my-shop-register-service/my-shop-register-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/my-shop-register-web/my-shop-register-web.iml" filepath="$PROJECT_DIR$/my-shop-register-web/my-shop-register-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-resources-api/my-shop-resources-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-resources-api/my-shop-resources-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/my-shop-search/my-shop-search.iml" filepath="$PROJECT_DIR$/my-shop-web/my-shop-search/my-shop-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-search-api/my-shop-search-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-search-api/my-shop-search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/my-shop-search-servive/my-shop-search-servive.iml" filepath="$PROJECT_DIR$/my-shop-service/my-shop-search-servive/my-shop-search-servive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/my-shop-service.iml" filepath="$PROJECT_DIR$/my-shop-service/my-shop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/my-shop-sms-servive/my-shop-sms-servive.iml" filepath="$PROJECT_DIR$/my-shop-service/my-shop-sms-servive/my-shop-sms-servive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/my-shop-sso/my-shop-sso.iml" filepath="$PROJECT_DIR$/my-shop-web/my-shop-sso/my-shop-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/my-shop-staticresource-servive/my-shop-staticresource-servive.iml" filepath="$PROJECT_DIR$/my-shop-service/my-shop-staticresource-servive/my-shop-staticresource-servive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-user-api/my-shop-user-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-user-api/my-shop-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/my-shop-user-servive/my-shop-user-servive.iml" filepath="$PROJECT_DIR$/my-shop-service/my-shop-user-servive/my-shop-user-servive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/my-shop-web.iml" filepath="$PROJECT_DIR$/my-shop-web/my-shop-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/myteam-shop.iml" filepath="$PROJECT_DIR$/.idea/myteam-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test1/test1.iml" filepath="$PROJECT_DIR$/test/test1/test1.iml" />
     </modules>
   </component>
 </project>
